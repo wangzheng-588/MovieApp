@@ -10,9 +10,6 @@ import android.view.ViewGroup;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-/**
- * Created by wz on 17-5-18.
- */
 
 public abstract class BaseFragment extends Fragment {
 

@@ -7,9 +7,6 @@ import android.support.v7.app.AppCompatActivity;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-/**
- * Created by wz on 17-5-18.
- */
 
 public abstract class BaseActivity extends AppCompatActivity {
 

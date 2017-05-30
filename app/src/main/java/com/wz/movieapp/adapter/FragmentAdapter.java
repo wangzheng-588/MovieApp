@@ -6,9 +6,6 @@ import android.support.v4.app.FragmentStatePagerAdapter;
 
 import java.util.List;
 
-/**
- * Created by wz on 17-5-18.
- */
 
 public class FragmentAdapter extends FragmentStatePagerAdapter {
 
